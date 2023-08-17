@@ -1,4 +1,4 @@
-# Exercícios API com PHP e Laravel
+# Academia API com PHP e Laravel
 Este projeto contém uma série de exercícios práticos para trabalhar com API e retorno dos dados no formato JSON usando a linguagem PHP e o framework Laravel.
 
 ## Requisitos
@@ -15,7 +15,7 @@ Certifique-se de ter os seguintes requisitos atendidos antes de começar a traba
 
 1. Clone este repositório para o seu ambiente de desenvolvimento local utilizando o comando:
 ```
- git clone https://github.com/gabigpalharini/academia-api.git
+ git clone https://github.com/emillyluzia/academia-api.git
  ```
 2. Acesse o diretório do projeto:
 ```
