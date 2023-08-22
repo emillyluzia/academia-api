@@ -19,7 +19,7 @@ Certifique-se de ter os seguintes requisitos atendidos antes de começar a traba
  ```
 2. Acesse o diretório do projeto:
 ```
-cd exercicios-api-json-php-laravel
+cd academia-api-json-php-laravel
 ```
 3. Inicializando o Repositorio
 ```
@@ -32,6 +32,11 @@ copy .env.example .env
 5. Acessar o Visual Studio Code
 ```
 code .
+```
+6. Acessar o usuário e email
+```
+git config --global user.email "emillyluzia416@gmail.com"
+git config --global user.name "emillyluzia"
 ```
 ## insomnia
 [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=academia-api&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fcestari15%2Facademia-api%2Fmain%2Finsomnia.json%3Ftoken%3DGHSAT0AAAAAACGBYDRKBG3MCQSZKXPCDWNKZGSEWTQ)
