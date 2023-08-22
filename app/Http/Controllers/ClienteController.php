@@ -26,4 +26,8 @@ class ClienteController extends Controller
             'data' => $usuario
         ], 200);
     }
+
+    public function pesquisarPodId($id){
+         return ClienteModel::find($id);
+    }
 }
